@@ -1,0 +1,16 @@
+{
+  "name": "docx2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "this is second project on docx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditi Singh",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^7.3.0",
+    "fs": "^0.0.1-security"
+  }
+}
